@@ -1,0 +1,10 @@
+[package]
+name = "scraper-broken"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+eyre = "0.6.12"
+scraper = "0.21.0"
+tikv-jemallocator = "0.6.0"
+uuid = "1.16.0"
